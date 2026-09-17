@@ -58,7 +58,6 @@ An enterprise web application designed to automatically generate, visualize, com
 * **Containerization:** Docker & Multi-stage Dockerfiles
 * **Orchestration:** Docker Compose
 * **Web Server:** Nginx (SPA routing + reverse proxy)
-* **CI/CD:** GitHub Actions
 
 ---
 
